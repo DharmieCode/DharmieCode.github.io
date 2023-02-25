@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-02-13
-img: Covid_B.png
+img: Covid_NEW.png
 alt: image-alt
 project-date: February 2022
 client: 
