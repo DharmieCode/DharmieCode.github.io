@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-02-12
-img: Breast_cancer_pic33.png
+img: breastCA_2.jpeg
 alt: image-alt
 project-date: November 2022
 client: 
