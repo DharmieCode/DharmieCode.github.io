@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-03-02
+date: 2023-03-01
 img: project_22.jpg
 alt: image-alt
 project-date: February 2022
