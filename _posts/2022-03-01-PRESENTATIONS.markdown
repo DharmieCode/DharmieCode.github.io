@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Check my publications here- <a href="My_PUBLICATIONS.pdf" target= "_blank"</i> Link.</a>
+description: Check my presentations here- <a href="PRESENTATIONS.pdf" target= "_blank"</i> Link.</a>
 
 
 
